@@ -1,0 +1,22 @@
+{
+  "name": "ddr",
+  "version": "0.0.1",
+  "homepage": "https://github.com/trojan-hack-2014/tripping-lana",
+  "authors": [
+    "tholapz <tholapz@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1",
+    "bootstrap": "~3.2.0"
+  }
+}
